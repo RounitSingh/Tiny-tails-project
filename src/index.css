@@ -1,0 +1,84 @@
+body {
+ 
+  background-color: rgb(246, 246, 246);
+  background-size: cover;
+  background-position: center center;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+ 
+}
+.button {
+  
+  margin-top: 300px ;
+  padding: 20px 30px;
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+  margin-left: 600px;
+  color: #fff;
+  background-color: #007bff; /* Change the color here */
+  border-radius:100px;
+  cursor: pointer;
+  box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.4);
+}
+
+.button:hover {
+  background-color: #0069d9;
+}
+
+.button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+  
+}
+
+.barChart{
+  box-shadow:15px 20px 40px rgba(0, 0, 0, 0.1);
+  background-color:rgb(250, 250, 250);
+  border-radius: 10px;
+  border-top-color: rgba(0, 0, 0, 0.1);
+}
+
+.chart1 {
+  left: 100%;
+  margin-top: 50px ;
+  margin-left: 200px;
+  box-shadow: 40px 40px 40px rgba(0, 0, 0, 0.1);
+  background-color: #ffffff;
+  padding: 20px;
+  padding-top: 50px;
+  padding-bottom: 30px;
+  border-radius: 20px;
+  margin-right: 200px;
+}
+
+.chart1 button {
+  margin-top: 20px;
+  display: block;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  color: #fff;
+  background-color: #007bff;
+  border-radius:100px;
+  cursor: pointer;
+  box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.1);
+}
+
+.chart1 button:hover {
+  background-color:#0069d9;
+}
+
+.chart1 button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
