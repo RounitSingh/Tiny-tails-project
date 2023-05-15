@@ -1,5 +1,7 @@
 # Tiny-tails-project
 
+"Hosted link :  https://6462956799431e0b16dbb948--thunderous-wisp-44c308.netlify.app/  "
+
 This is a React component that fetches data from a, processes it, and displays it in a bar chart using the
 Recharts library. It also provides an option to export the data as a CSV file.
 
