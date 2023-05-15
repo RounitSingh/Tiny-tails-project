@@ -1,4 +1,4 @@
-# Tiny-tails-project
+# Terribly Tiny Tales Assignment
 
 "Hosted link :  https://6462956799431e0b16dbb948--thunderous-wisp-44c308.netlify.app/  "
 
